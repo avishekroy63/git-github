@@ -1,0 +1,27 @@
+THIS iS GIT First FILE. Tried "git status" , "git add" , "git commit" 
+
+-> git init
+
+			avishek.roy@MCGL-5318 MINGW64 ~/Desktop/Reading/GIT
+			$ git init
+			Initialized empty Git repository in C:/Users/avishek.roy/Desktop/Reading/GIT/.git/
+
+			avishek.roy@MCGL-5318 MINGW64 ~/Desktop/Reading/GIT (master)
+			$ git remote add origin "https://github.com/avishekroy63/git-github.git"
+
+			avishek.roy@MCGL-5318 MINGW64 ~/Desktop/Reading/GIT (master)
+
+			$ git pull origin master
+			remote: Counting objects: 6, done.
+			remote: Compressing objects: 100% (3/3), done.
+			remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+			Unpacking objects: 100% (6/6), done.
+			From https://github.com/avishekroy63/git-github
+			 * branch            master     -> FETCH_HEAD
+ 			 * [new branch]      master     -> origin/master
+
+
+		-> git status
+		-> git add
+
+		-> git commit
